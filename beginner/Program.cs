@@ -10,6 +10,12 @@ namespace beginner
     {
         static void Main(string[] args)
         {
+            //dars 1 ################################################
+            Console.WriteLine("hello world!");
+            Console.ReadKey();
+            //dars 2 ################################################
+            int a; long b = 966;
+            a = (int)b;
         }
     }
 }
