@@ -11,12 +11,13 @@ namespace beginner
         static void Main(string[] args)
         {
             //dars 1 ##############################################################################
-            Console.WriteLine("hello world!");
-            Console.ReadKey();
+
+            //Console.WriteLine("hello world!");
+            //Console.ReadKey();
             //dars 2 ##############################################################################
-            int a; long b = 966;
-            a = (int)b;
-            //dars 3 ##############################################################################
+            //int a; long b = 966;
+            //a = (int)b;
+            //dars 3 & 4 & 5 ######################################################################
             //bool wqw = true;//false
             //int i = 1, q;
             //i++;
@@ -33,7 +34,7 @@ namespace beginner
             //{
 
             //} while (true);
-            
+
             //try
             //{
 
@@ -61,11 +62,22 @@ namespace beginner
             //        break;
             //}
 
-            //for (int z = 0; z < 12; z++)
-            //{
-            //    i++;
-            //}
+            //dars 6 ##############################################################################
+            int[] intNumber = new int[] {50,0,0,6,80 };
 
+            for (int i = 0; i < intNumber.Length; i++)
+            {
+                Console.WriteLine($"array[{i}] = {intNumber[i]}");
+            }
+            for (int i = intNumber.Length-1; i >= 0; i--)
+            {
+                intNumber[i]++;
+                Console.WriteLine($"array[{i}] = {intNumber[i]}");
+            }
+            foreach (var item in intNumber)
+            {
+                Console.WriteLine($"array = {item}");
+            }
         }
     }
 }
