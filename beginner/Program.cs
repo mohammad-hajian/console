@@ -10,14 +10,16 @@ namespace beginner
     {
         static void Main(string[] args)
         {
-            //dars 1 ##############################################################################
+
+
+            //dars badi ##############################################################################
 
             //Console.WriteLine("hello world!");
             //Console.ReadKey();
-            //dars 2 ##############################################################################
+            //dars badi ##############################################################################
             //int a; long b = 966;
             //a = (int)b;
-            //dars 3 & 4 & 5 ######################################################################
+            //dars badi ######################################################################
             //bool wqw = true;//false
             //int i = 1, q;
             //i++;
@@ -62,22 +64,47 @@ namespace beginner
             //        break;
             //}
 
-            //dars 6 ##############################################################################
-            int[] intNumber = new int[] {50,0,0,6,80 };
+            //dars badi ##############################################################################
+            //int[] intNumber = new int[] {50,0,0,6,80 };
 
-            for (int i = 0; i < intNumber.Length; i++)
-            {
-                Console.WriteLine($"array[{i}] = {intNumber[i]}");
-            }
-            for (int i = intNumber.Length-1; i >= 0; i--)
-            {
-                intNumber[i]++;
-                Console.WriteLine($"array[{i}] = {intNumber[i]}");
-            }
-            foreach (var item in intNumber)
-            {
-                Console.WriteLine($"array = {item}");
-            }
+            //for (int i = 0; i < intNumber.Length; i++)
+            //{
+            //    Console.WriteLine($"array[{i}] = {intNumber[i]}");
+            //}
+            //for (int i = intNumber.Length-1; i >= 0; i--)
+            //{
+            //    intNumber[i]++;
+            //    Console.WriteLine($"array[{i}] = {intNumber[i]}");
+            //}
+            //foreach (var item in intNumber)
+            //{
+            //    Console.WriteLine($"array = {item}");
+            //}
+            //dars badi ##############################################################################
+            //Console.Write("how length?");
+            //    int intCount = Convert.ToInt32(Console.ReadLine());
+            //    int[] intNumbers = new int[intCount];
+            //    for (int i = 0; i < intNumbers.Length; i++)
+            //    {
+            //        try
+            //        {
+            //            Console.Write($"array[{i + 1}] = ");
+            //            intNumbers[i] = Convert.ToInt32(Console.ReadLine());
+            //        }
+            //        catch (Exception e)
+            //        {
+            //            Console.WriteLine(e.Message);
+            //        }
+            //    }
+            //    int intsum = 0;
+            //    foreach (var item in intNumbers)
+            //    {
+            //        intsum += item;
+            //    }
+            //    Console.WriteLine(intsum);
         }
+
+
     }
 }
+    
