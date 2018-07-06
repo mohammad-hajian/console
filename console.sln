@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beginner", "beginner\beginner.csproj", "{ED77CC0F-CEE9-4233-A773-20D0E1BFDB39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "ref_out\ref_out.csproj", "{B0B5B2A3-C271-46F7-9B3F-A1236668865C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_overloding_class-copy_etc", "OOP_overloding_class-copy_etc\OOP_overloding_class-copy_etc.csproj", "{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{ED77CC0F-CEE9-4233-A773-20D0E1BFDB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED77CC0F-CEE9-4233-A773-20D0E1BFDB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED77CC0F-CEE9-4233-A773-20D0E1BFDB39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B5B2A3-C271-46F7-9B3F-A1236668865C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B5B2A3-C271-46F7-9B3F-A1236668865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B5B2A3-C271-46F7-9B3F-A1236668865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B5B2A3-C271-46F7-9B3F-A1236668865C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
