@@ -100,19 +100,6 @@ namespace beginner
             //        intsum += item;
             //    }
             //    Console.WriteLine(intsum);
-            //dars badi ##############################################################################
-            //string s = "mohammad-hajian";
-            //s.ToUpper();
-            //s.ToLower();
-            //s.IndexOf("jost o jooye morede nazar");
-
-            //char[] b = { 'j', '-' };
-            //string[] result;
-            //result = s.Split(b);
-            //foreach (var item in result)
-            //{
-            //    Console.WriteLine(item);
-            //}
         }
     }
 }

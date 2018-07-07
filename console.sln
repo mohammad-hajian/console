@@ -7,9 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beginner", "beginner\beginn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "ref_out\ref_out.csproj", "{B0B5B2A3-C271-46F7-9B3F-A1236668865C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_overloding_class-copy_etc", "OOP_overloding_class-copy_etc\OOP_overloding_class-copy_etc.csproj", "{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_overloding_classcopy_etc", "OOP_overloding_class-copy_etc\OOP_overloding_classcopy_etc.csproj", "{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings", "strings\strings.csproj", "{F7074A72-6656-40BB-BF42-606270DDCC5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
