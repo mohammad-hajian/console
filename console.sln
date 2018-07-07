@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_out", "ref_out\ref_out.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_overloding_class-copy_etc", "OOP_overloding_class-copy_etc\OOP_overloding_class-copy_etc.csproj", "{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D70D3A81-CEF5-4E85-B380-EA0B6FAB32F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

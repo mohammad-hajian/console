@@ -68,8 +68,22 @@ namespace test1
             person1.Showinfo();
             person2.Showinfo();
             person3.Showinfo();
-            //یا ==>   Console.WriteLine($"age:{person3.Age} , nam:{person3.Nam} , jensiat:{person3.Jensiat} , ezdevaj:{person3.Ezdevaj}");
-
+            //یا ==>   
+            Console.WriteLine($"age:{person3.Age} , nam:{person3.Nam} , jensiat:{person3.Jensiat} , ezdevaj:{person3.Ezdevaj}");
+            //یا ==>
+            switch (person3.Jensiat)
+            {
+                case PersonJensiat.mard:
+                    {
+                        Console.WriteLine("oo mard ast.");
+                        break;
+                    }
+                case PersonJensiat.zan:
+                    {
+                        Console.WriteLine("oo zan ast.");
+                        break;
+                    }
+            }
         }
     }
 }
