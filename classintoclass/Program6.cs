@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace test
+namespace classintoclass
 {
     class Person
     {
@@ -16,15 +16,15 @@ namespace test
         {
             FullName = fullName;
         }
-        public Person(string fullName,int age)
-            :this(fullName)
+        public Person(string fullName, int age)
+            : this(fullName)
         {
             Age = age;
         }
         private int _age;
         private string _fullName;
-        public int Age { get {return _age; } set {_age=value; } }
-        public string FullName { get {return _fullName; } set { _fullName = value; } }
+        public int Age { get { return _age; } set { _age = value; } }
+        public string FullName { get { return _fullName; } set { _fullName = value; } }
         public void ShowInfo()
         {
             Console.WriteLine($"fullName is {_fullName} and age is {_age}");
