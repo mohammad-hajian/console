@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace beginner
+namespace ref_out
 {
-    static class Ref_out
+    static class program3
     {
         static void Mian()
         {
