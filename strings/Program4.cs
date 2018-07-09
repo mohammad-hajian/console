@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace strings
+namespace stringsText
 {
     class Program4
     {
@@ -64,7 +64,7 @@ namespace strings
                 Console.WriteLine(str);
             }
             str1.ToString();
-            /////////////////////////////////////////////////////////////
+            ////////////////////// system.text ///////////////////////////////////////
             StringBuilder builder = new StringBuilder();
             Console.WriteLine($"Length ==>             {builder.Length}");//0
             Console.WriteLine($"Capacity ==>             {builder.Capacity}");//16

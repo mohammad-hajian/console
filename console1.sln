@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_overloding_classcopy_et
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings", "strings\strings.csproj", "{F7074A72-6656-40BB-BF42-606270DDCC5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringsText", "strings\stringsText.csproj", "{F7074A72-6656-40BB-BF42-606270DDCC5E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csproj", "{5DD81464-EB4B-46D5-BA41-C3B5C244E5C0}"
 EndProject
