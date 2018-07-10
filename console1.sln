@@ -11,11 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_overloding_classcopy_et
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringsText", "strings\stringsText.csproj", "{F7074A72-6656-40BB-BF42-606270DDCC5E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csproj", "{5DD81464-EB4B-46D5-BA41-C3B5C244E5C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classintoclass", "classintoclass\classintoclass.csproj", "{E7F68D83-9F2D-473A-8E9A-B2578BB8A830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringsText", "stringsText\stringsText.csproj", "{F7074A72-6656-40BB-BF42-606270DDCC5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +39,6 @@ Global
 		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF55A2F-DE8C-4F12-ABF7-B899FAC308F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5DD81464-EB4B-46D5-BA41-C3B5C244E5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5DD81464-EB4B-46D5-BA41-C3B5C244E5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DD81464-EB4B-46D5-BA41-C3B5C244E5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +47,10 @@ Global
 		{E7F68D83-9F2D-473A-8E9A-B2578BB8A830}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7F68D83-9F2D-473A-8E9A-B2578BB8A830}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7F68D83-9F2D-473A-8E9A-B2578BB8A830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7074A72-6656-40BB-BF42-606270DDCC5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
